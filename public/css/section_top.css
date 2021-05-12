@@ -1,0 +1,39 @@
+.section-top {
+    /* Component 43 */
+
+    /* Auto Layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px 45px;
+
+    position: static;
+    width: 1260px;
+    height: 410px;
+    left: 0px;
+    top: 233px;
+
+    /* C1/J */
+
+    background: #bdbdbd;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.card-one {
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+
+    /* C2/E */
+
+    background: #f4f8ec;
+    border-radius: 12px;
+}
