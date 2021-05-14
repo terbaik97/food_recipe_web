@@ -1,0 +1,53 @@
+.menu-section {
+    /* Products/Products with Category/1 row */
+
+    /* Auto Layout */
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding: 64px 45px;
+
+    position: static;
+    width: 1260px;
+    height: 460px;
+    left: 0px;
+    top: 1103px;
+
+    /* C1/J */
+
+    background: #e4e28c;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.menu-card {
+    /* Products/Items/Grid view/Default */
+
+    /* Auto Layout */
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+
+    width: 269px;
+    height: 323px;
+    left: 300px;
+    top: 0px;
+
+    /* C1/J */
+
+    background: #ffffff;
+    /* C1/D */
+
+    border: 1px solid #d1d1d1;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
