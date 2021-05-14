@@ -10,8 +10,12 @@
         <a href="#" class="btn btn-primary">Read recipe</a>
     </div>
   </section>
+
   @include('sections.product')
-    
+
+  @include('sections.menu')
+  
+  @include('layouts.footer')
 
   </div>
 </body>
