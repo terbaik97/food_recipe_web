@@ -1,0 +1,39 @@
+.product-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+
+    padding: 64px 45px;
+    position: static;
+    width: 1260px;
+    height: 460px;
+    left: 0px;
+    top: 643px;
+    background: #da8383;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin: 53px 0px;
+}
+
+.product-card {
+    /* Products/Items/Grid view/Default */
+    /* Auto Layout */
+    display: flex;
+    flex-direction: column;
+
+    width: 269px;
+    height: 323px;
+    left: 300px;
+    top: 0px;
+
+    /* C1/J */
+
+    background: #ffffff;
+    /* C1/D */
+
+    border: 1px solid #d1d1d1;
+    box-sizing: border-box;
+    border-radius: 12px;
+}

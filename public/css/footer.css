@@ -1,0 +1,319 @@
+.footer {
+    /* Footers/White/v1 */
+
+    /* Auto Layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 64px 45px;
+
+    position: static;
+    width: 1260px;
+    height: 556px;
+    left: 0px;
+    top: 3114.5px;
+
+    /* C1/J */
+
+    background: #ffffff;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 8;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.in-touch {
+    /* Get in touch */
+    left: 3.57%;
+    right: 86.33%;
+    top: 11.51%;
+    bottom: 83.63%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    /* C1/A */
+
+    color: #151515;
+}
+
+.about-us {
+    /* About Us */
+    left: 3.57%;
+    right: 91.67%;
+    top: 19.24%;
+    bottom: 77.34%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+    color: #6a983c;
+}
+
+.careers {
+    /* Careers */
+    left: 3.57%;
+    right: 92.38%;
+    top: 25.54%;
+    bottom: 71.04%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+
+    color: #6a983c;
+}
+
+.blog {
+    /* Blog */
+
+    left: 3.57%;
+    right: 94.13%;
+    top: 38.13%;
+    bottom: 58.45%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+
+    color: #6a983c;
+}
+
+.connection {
+    left: 29.58%;
+    right: 59.78%;
+    top: 11.51%;
+    bottom: 83.63%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    /* C1/A */
+
+    color: #151515;
+}
+
+.facebook {
+    /* Facebook */
+    left: 29.58%;
+    right: 65.42%;
+    top: 19.24%;
+    bottom: 77.34%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+
+    color: #6a983c;
+}
+
+.twitter {
+    /* Twitter */
+
+    left: 29.58%;
+    right: 66.77%;
+    top: 25.54%;
+    bottom: 71.04%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+
+    color: #6a983c;
+}
+
+.instagram {
+    /* Instagram */
+
+    left: 29.58%;
+    right: 65.1%;
+    top: 31.83%;
+    bottom: 64.75%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+
+    color: #6a983c;
+}
+
+.earning {
+    /* Earnings */
+    left: 55.05%;
+    right: 37.68%;
+    top: 11.51%;
+    bottom: 83.63%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    /* C1/A */
+
+    color: #151515;
+}
+
+.affiliate {
+    /* Become an Affiliate */
+
+    left: 55.05%;
+    right: 34.87%;
+    top: 19.24%;
+    bottom: 77.34%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+
+    color: #6a983c;
+}
+
+.advertise {
+    /* Advertise your product */
+
+    left: 55.05%;
+    right: 33.05%;
+    top: 25.54%;
+    bottom: 71.04%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+
+    color: #6a983c;
+}
+
+.account {
+    /* Account */
+
+    left: 80.79%;
+    right: 12.12%;
+    top: 11.51%;
+    bottom: 83.63%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    /* C1/A */
+
+    color: #151515;
+}
+
+.your-account {
+    /* Your account */
+
+    left: 80.79%;
+    right: 12.31%;
+    top: 19.24%;
+    bottom: 77.34%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+
+    color: #6a983c;
+}
+
+.return-centre {
+    /* Returns Centre */
+
+    left: 80.79%;
+    right: 11.36%;
+    top: 25.54%;
+    bottom: 71.04%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* C2/A */
+
+    color: #6a983c;
+}
+
+.product-tags {
+    /* Product tags */
+
+    left: 3.57%;
+    right: 86.47%;
+    top: 56.47%;
+    bottom: 38.67%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    /* C1/A */
+
+    color: #151515;
+}

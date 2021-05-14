@@ -11,7 +11,11 @@
     </div>
   </section>
 
-    
+  @include('sections.product')
+
+  @include('sections.menu')
+  
+  @include('layouts.footer')
 
   </div>
 </body>
