@@ -10,7 +10,7 @@
         <a href="#" class="btn btn-primary">Read recipe</a>
     </div>
   </section>
-
+  @include('sections.product')
     
 
   </div>
